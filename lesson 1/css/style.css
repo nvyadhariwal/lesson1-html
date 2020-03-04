@@ -1,0 +1,31 @@
+.d1{
+    color: blue;
+font-size: 1.5em;
+font-style: oblique;
+border-top: gray 6px solid
+;
+border-bottom: hotpink 5px solid;
+border-left: black 7px dotted ;
+border-right: blueviolet 8px solid;
+}
+#p1{ color: purple;
+font-size: 2em
+;
+font-style: italic;
+
+}
+.l1{
+    background-color: salmon;
+    height: 200px
+    ;
+    width: 200px;
+    padding: 50px;
+    margin: 50px;
+    border: 5px;
+}
+.r1{color: red;
+}
+.t1{color: springgreen;}
+body{
+    
+}
